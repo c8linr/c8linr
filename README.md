@@ -3,6 +3,7 @@
   <li>I’m interested in coding and fibre art</li>
   <li>I’m currently taking taking the Computer Programmer diploma at Algonquin College</li>
 </ul>
+
 --------
 
 🧰 Toolbox
