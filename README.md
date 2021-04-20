@@ -1,6 +1,8 @@
--  Hi, I’m @c8linr
--  I’m interested in coding and fibre art
--  I’m currently taking taking the Computer Programmer diploma at Algonquin College
+<h1>Hi, I’m @c8linr</h1>
+<ul>
+  <li>I’m interested in coding and fibre art</li>
+  <li>I’m currently taking taking the Computer Programmer diploma at Algonquin College</li>
+</ul>
 --------
 
 🧰 Toolbox
