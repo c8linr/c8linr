@@ -8,7 +8,12 @@
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/r/r-original.svg" alt="R Logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50" />
 
 --------
 
