@@ -1,7 +1,7 @@
 <h1>Hi, I’m C8linR</h1>
 <ul>
   <li>I’m interested in coding and fibre art</li>
-  <li>I’m currently taking taking the Computer Programmer diploma at Algonquin College</li>
+  <li>I expect to graduate with the Computer Programmer diploma at Algonquin College in August 2022</li>
 </ul>
 
 --------
@@ -16,7 +16,7 @@ My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c8linr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=c8linr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Caitlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=c8linr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 c8linr/c8linr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
