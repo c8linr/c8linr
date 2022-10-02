@@ -4,6 +4,7 @@
   <li>Most of my experience is with Java, but I also enjoy working with databases, both relational and NoSQL</li>
   <li>Outside of tech, I enjoy weaving and other fibre arts</li>
 </ul>
+<p>Most of my code for school projects has been made private to prevent plagiarism, since I'm connected with current students. I plan to tweak those projects enough to be both presentable and different from the original assignments. The main exception is the Crop Profitability Calculator in R for my Programming Language Research Project. It would be harder for someone to claim ownership without being obvious. </p>
 
 --------
 
