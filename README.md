@@ -1,7 +1,8 @@
 <h1>Hi, I’m C8linR</h1>
 <ul>
-  <li>I’m interested in coding and fibre art</li>
-  <li>I expect to graduate with the Computer Programmer diploma at Algonquin College in August 2022</li>
+  <li>I recently graduated with the Computer Programmer diploma from Algonquin College</li>
+  <li>Most of my experience is with Java, but I also enjoy working with databases, both relational and NoSQL</li>
+  <li>Outside of tech, I enjoy weaving and other fibre arts</li>
 </ul>
 
 --------
@@ -17,7 +18,3 @@ My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c8linr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Caitlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=c8linr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-c8linr/c8linr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
